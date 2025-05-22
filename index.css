@@ -1,0 +1,28 @@
+body{
+background-image: url(https://media.istockphoto.com/id/1795167728/photo/growth-in-business-and-finance-growing-graphs-and-charts.jpg?s=612x612&w=0&k=20&c=626gZ0gRzvxnmVODOIGYmIlMWnFc5Uv5fV7OrddBp-w=);
+background-size:cover;
+padding: 10px;
+margin: 10px;
+border: 10px;
+
+    }
+
+    h1 { text-align: center;
+         color: blue;
+    }
+
+    p{
+        text-align: center;
+        color: darkgreen;
+        font-size: 50px;
+    }
+    h2 {
+        color: blanchedalmond;
+    }
+    
+    section{
+        color: blue;
+        size: 30px;
+    }
+  
+
